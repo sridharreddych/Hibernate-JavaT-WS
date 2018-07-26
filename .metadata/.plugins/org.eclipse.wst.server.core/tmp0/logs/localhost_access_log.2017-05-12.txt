@@ -1,0 +1,2 @@
+127.0.0.1 - - [12/May/2017:21:41:38 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [12/May/2017:21:41:40 +0530] "GET /HibernateNamedQuery/WEB-INF/classes/com/javatpoint/FetchData.java HTTP/1.1" 404 949
